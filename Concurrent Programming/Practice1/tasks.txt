@@ -1,0 +1,10 @@
+Simple Java class
+
+Create a Java class called Employee. An Employee has two private fields, called name and salary. 
+Create a public constructor that initializes these fields. 
+Also create public getters for these fields and a method that raises the salary 
+by a given percent (a floating point value passed as parameter).
+
+In this exercise and all the other ones, 
+create a class whose main method tests the described functionality. 
+Make sure that you can compile the code and run it.
